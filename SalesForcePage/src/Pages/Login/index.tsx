@@ -1,5 +1,4 @@
-
-import "./Lstyle.css";
+import "./style.css";
 import rjImg from "../../assets/rjImg.png";
 import Footer from "../../Components/Footer";
 import Menu from "../../Components/Menu";

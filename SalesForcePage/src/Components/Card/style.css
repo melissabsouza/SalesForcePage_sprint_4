@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Medula+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Medula+One&display=swap');
 
-body{
-    background-color: #80CEE5;
-}
-
 .img{
     border-radius: 0px 75px 0px 75px;
     width: 350px;
@@ -15,8 +11,6 @@ body{
 .container{
     width: 350px;
     height: 198px;
-    top: 1519px;
-    left: 67px;
     border-radius: 0px 0px 50px 50px;
     background-color: #80CEE5;
     display: flex;
@@ -32,25 +26,21 @@ body{
 .icone{
     width: 50px;
     height: 50px;
-}
-
-.icone + .icone{
     margin-left: 15px;
 }
 
-h1, h4{
+.agah1, .agah4{
     font-family: Inter;
     font-size: 16px;
     font-weight: 700;
     line-height: 19.36px;
     text-align: center;
+    color: white;
 }
 
-.principal + .principal{
-    margin-left: 20px;
-}
 
 .principal{
+    margin-left: 20px;
     margin: 0 auto;
     padding-top: 45px;
 }

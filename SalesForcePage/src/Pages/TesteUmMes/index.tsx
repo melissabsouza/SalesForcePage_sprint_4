@@ -1,6 +1,4 @@
-
-import "./TUstyle.css";
-import salesforceIcon from "../../assets/salesforceIcon.png"
+import "./style.css";
 import Footer from "../../Components/Footer";
 import Menu from "../../Components/Menu";
 

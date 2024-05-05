@@ -1,4 +1,4 @@
-import './TMstyle.css';
+import "./style.css";
 import brasilia1 from "../../assets/brasilia.png";
 import Footer from '../../Components/Footer';
 import Menu from '../../Components/Menu';
