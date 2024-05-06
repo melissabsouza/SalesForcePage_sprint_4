@@ -6,7 +6,7 @@ import Home from './Pages/Home/index.tsx';
 import Login from './Pages/Login/index.tsx';
 import TesteUmMes from './Pages/TesteUmMes/index.tsx';
 import Quiz from './Pages/Quiz/index.tsx';
-import About from "./Pages/About/About.tsx";
+import About from "./Pages/About/index.tsx";
 import Teste10Minutos from './Pages/Teste10Minutos/index.tsx';
 
 const router = createBrowserRouter([
